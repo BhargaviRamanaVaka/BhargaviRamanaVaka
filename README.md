@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 currently studing B.Tech II year
+- 🔭 currently studing B.Tech IV year
 - :book: VRSEC
 - 👯 I’m looking to collaborate with government 
 - 🤔 I’m looking for help with ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - ***VAKA BHARGAVI***
-- :book: currently pursuing B.Tech II year
+- :book: currently pursuing B.Tech IV year
   - CSE
 - :thinking: I'm looking to collaborate with government
 - :speech_balloon: Ask me about nothing
